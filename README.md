@@ -17,10 +17,9 @@ This project analyzes data from an e-commerce platform to gain insights into cus
 
 **Instructions:**
 
-1. Replace `FirstName_LastName` with your actual first and last name in the file names.
-2. Download the code and reports from this repository.
-3. Run the Jupyter Notebooks to execute the analysis.
-4. Refer to the PDF reports for detailed explanations and visualizations.
+1. Download the code and reports from this repository.
+2. Run the Jupyter Notebooks to execute the analysis.
+3. Refer to the PDF reports for detailed explanations and visualizations.
 
 **Note:**
 
