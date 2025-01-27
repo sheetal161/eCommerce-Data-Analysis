@@ -1,4 +1,4 @@
-# eCommerce Transaction Dataset_Data Analysis
+# eCommerce Transactions Dataset_Data Analysis
 
 This repository contains the code and reports for the eCommerce Data Analysis Assignment.
 
